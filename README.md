@@ -1,5 +1,5 @@
 # mod-calculator
-This is a program for a calculator that solves and expands upon this discrete math problem:
+This is a program written in C++ for a calculator that solves and expands upon this discrete math problem:
 
 For some prime numbers p, the equation x * x + 1 = 0 (mod p) has a solution in ℤ<sub>p</sub>. For other primes it does not. For example, in ℤ<sub>17</sub> we have 4 * 4 + 1 = 0 (mod 17), but in ℤ<sub>19</sub> there is no solution.
 
