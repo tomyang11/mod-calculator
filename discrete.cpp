@@ -4,7 +4,7 @@
 using namespace std;
 
 vector<int> solve(int x, int n, vector<int> arr) {
-	if ((x*x + 1) % n == 0) {
+	if ((x * x + 1) % n == 0) {
     	arr.push_back(x);
     } else if (x == n) {
     	return arr;
